@@ -42,7 +42,7 @@ if (isset($_POST['searchbtn'])) {
 
 } else {
 
-    $pageId;
+     $pageId;
 
     if (isset($_GET['pageId'])) {
         $pageId = $_GET['pageId'];
